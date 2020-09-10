@@ -1,3 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://arielbonfil:arielbonfil@devconnector.quu29.mongodb.net/DevConnector?retryWrites=true&w=majority"
+  "mongoURI": "mongodb+srv://arielbonfil:arielbonfil@devconnector.quu29.mongodb.net/DevConnector?retryWrites=true&w=majority",
+  "jwtSecret": "scretToken"
 }
